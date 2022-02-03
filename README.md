@@ -5,13 +5,13 @@
 
 
 <p align="center">
-  <img width="600" height="200" src="![image](https://user-images.githubusercontent.com/75809224/152293672-fc3c534f-527c-480e-92d2-24587d00b16c.png) ">
+  <img width="600" height="200" src= " ![image](https://user-images.githubusercontent.com/75809224/152293672-fc3c534f-527c-480e-92d2-24587d00b16c.png) ">
 </p> 
 
 * In this project We will use keras with tensorflow as backend and the model used for building the networks are Artificial Neural Networks (ANN) and Convolutional Neural Network (CNN).
 
 
-
+</br>
 
 |  Models   |  Accuracy  |   Loss    |
 | --------- | ---------- | --------  |
